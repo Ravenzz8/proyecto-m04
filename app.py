@@ -42,8 +42,6 @@ def demo5():
 def hola1():
     return render_template("exemples/hola/salutacio_form.html")
 
-#prueba
-
 @app.route("/hola2")
 def hola2():
     valor_salutacio = request.args.get('salutacio', default = "WTF!", type = str)
