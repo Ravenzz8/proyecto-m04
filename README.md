@@ -5,12 +5,12 @@
 3. Ara s'ha d'obrir al navegador l'adreça [http://127.0.0.1:5000/].
 
 
-# MODE REMOT
+## MODE REMOT
 
 Per llegir en mode remot l'xml, es pot carregar l'URL directament al navegador, i veure el contingut.
 
 
-# MODE LOCAL
+## MODE LOCAL
 
 Per llegir en mode local, has de descarregar l'xml i guardarlo a la carpeta **rss** dins del projecte. Finalment, l'obres amb algun editor de text, com VSCODE.
 
