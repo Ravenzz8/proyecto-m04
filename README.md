@@ -7,10 +7,12 @@
 
 # MODE REMOT
 
+Per llegir en mode remot l'xml, es pot carregar l'URL directament al navegador, i veure el contingut.
 
 
 # MODE LOCAL
 
+Per llegir en mode local, has de descarregar l'xml i guardarlo a la carpeta **rss** dins del projecte. Finalment, l'obres amb algun editor de text, com VSCODE.
 
 
 ## Enllaç per accedir a la documentació del projecte:
