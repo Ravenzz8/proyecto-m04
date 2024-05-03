@@ -1,4 +1,4 @@
-# COM DESPLEGAR L'APLICATIU
+## COM DESPLEGAR L'APLICATIU
 
 1. Has de llançar la comanda **.venv\Scripts\activate** per poder activar l'entorn virtual .venv.
 2. Llança la comanda **flask run --debug** per activar flask.
